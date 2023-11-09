@@ -1,0 +1,66 @@
+/* Global Styles */
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  /* Box Styles */
+  .box {
+    background-color: #c6e7f5;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Search Styles */
+  .search {
+    margin-bottom: 20px;
+  }
+  
+  .search input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #5283d3;
+    border-radius: 5px;
+  }
+  
+  /* Weather Styles */
+  .weather {
+    text-align: center;
+  }
+  
+  .weather h2 {
+    margin-top: 0;
+  }
+  
+  .weather h4 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .cityname {
+    font-size: 20px;
+    font-weight: bold;
+    color: #5283d3;
+  }
+  
+  .temperature {
+    color: #ff9900;
+  }
+  
+  .humidity {
+    color: #00c0ff;
+  }
+  
+  .windSpeed {
+    color: #006600;
+  }
+  
+  .windDirection {
+    color: #d35252;
+  }
+  
